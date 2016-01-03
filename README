@@ -16,4 +16,7 @@
 	Author: shunsuke Ito: shunsuke.ito@gmail.com
 	github: http://github.com/shunito/jqCandleChart/
 
+	オリジナルからの変更
+	======
+	・DemoのデータをJSON形式に変更
 	Released under the MIT and GPL licenses.
